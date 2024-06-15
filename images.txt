@@ -2,7 +2,7 @@ nginx
 cloudflare/cloudflared:latest
 haroldli/xiaoya-tvbox
 xhongc/music_tag_web:latest
-xiaoyaliu/alist:lates
+#xiaoyaliu/alist:lates
 xhofe/alist:latest
 amilys/embyserver
 emby/embyserver
