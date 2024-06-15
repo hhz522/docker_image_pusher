@@ -1,5 +1,9 @@
 nginx
 cloudflare/cloudflared:latest
+haroldli/xiaoya-tvbox
+xhongc/music_tag_web:latest
+ghcr.io/wy580477/musicn-container
+xiaoyaliu/alist:latest
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
