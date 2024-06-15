@@ -12,7 +12,7 @@ k1483162508/musicn
 cyberbolt/baota
 pch18/baota
 codercom/code-server:latest
-diygod/rsshu
+diygod/rsshub
 adguard/adguardhome
 linuxserver/resilio-sync:latest
 homeassistant/home-assistant
