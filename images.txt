@@ -1,6 +1,6 @@
 nginx
 cloudflare/cloudflared:latest
-haroldli/xiaoya-tvbox
+haroldli/xiaoya-tvbox:latest
 xhongc/music_tag_web:latest
 #xiaoyaliu/alist:lates
 xhofe/alist:latest
