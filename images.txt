@@ -29,7 +29,7 @@ yidadaa/chatgpt-next-web
 corentinth/it-tools
 lanol/filecodebox
 qingfeng2336/it-tools
-
+ghcr.io/alexta69/metube
 #汉化
 halohub/halo:2.16
 xiaoyaliu/alist
